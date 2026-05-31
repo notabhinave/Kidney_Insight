@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+env/
+.conda/
+venv/
+
+# Data (do NOT push medical images)
+data/
+*.npy
+*.jpg
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
